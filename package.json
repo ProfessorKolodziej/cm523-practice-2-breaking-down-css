@@ -48,10 +48,10 @@
       "**/?(*.)+(spec|test).[jt]s?(x)"
     ],
     "testPathIgnorePatterns": [
-      "/node_modules/(?!(cm523-unit-tests)/test-your-connections)"
+      "/node_modules/(?!(cm523-unit-tests)/practice-2-breaking-down-css)"
     ],
     "transformIgnorePatterns": [
-      "/node_modules/(?!(cm523-unit-tests)/test-your-connections)"
+      "/node_modules/(?!(cm523-unit-tests)/practice-2-breaking-down-css)"
     ],
     "haste": {
       "retainAllFiles": true
