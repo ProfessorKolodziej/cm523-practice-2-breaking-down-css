@@ -10,6 +10,7 @@ In this practice, you'll learn how to translate a small design to basic CSS by l
 - [ ] You've used `display: grid;` in your CSS at least once. This will help recreate your layout.
 - [ ] You've used `position: absolute;` in your CSS at least once. This will help position the red SVG graphic.
 - [ ] You should only use class selectors in your CSS. Do not use element selectors.
+- [ ] You should not change the tags, classes, or content in the `index.html` file. For example, do not change "Jan Tschichold" to lowercase letters. Use CSS to style this instead.
 
 ### New concepts
 
